@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-22T01:12:13-04:00
+
+====== Palestine ======
+Created Wednesday 22 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/State_of_Palestine|[ref 1]]]	https://en.wikipedia.org/wiki/State_of_Palestine
+
+What is the State of Palestine?
+Palestine, officially recognized as the State of Palestine, by the Palestian:United Nations and other entities, is a
+de jure sovereign state in Western Asia.
+
+Who officially governs Palestine?
+The Palestian:Palestine Liberation Organization (PLO).

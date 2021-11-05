@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-02T14:22:06-04:00
+
+====== 02 Exodus ======
+Created Thursday 02 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Book_of_Exodus|[ref 1]]]	https://en.wikipedia.org/wiki/Book_of_Exodus
+
+What is the Book of Exodus?
+The Book of Exodus is the second book of the Bible.

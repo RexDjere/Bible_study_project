@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-10-21T13:54:28-04:00
+
+====== 10 Zebulun ======
+Created Thursday 21 October 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Zebulun|[ref 1]]]	https://en.wikipedia.org/wiki/Zebulun
+
+Who was Zebulun?
+Zebulun was, according to the Books of Genesis and Numbers, the sixth and last son of Jacob and Leah, and the founder of the Israeliter Tribe of Zebulun.	[[https://en.wikipedia.org/wiki/Zebulun|[ref 1]]]

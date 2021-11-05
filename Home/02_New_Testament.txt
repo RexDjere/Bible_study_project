@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-01T14:16:18-04:00
+
+====== 02 New Testament ======
+Created Wednesday 01 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/New_Testament|[ref 1]]]	https://en.wikipedia.org/wiki/New_Testament
+
+What is the New Testament?
+The New Testament is the second division of the Bhristian biblical canon.
+
+What are the 4 Gospels of the New Testament?
+[[+Gospel_of_Matthew]]
+[[+Gospel_of_Mark]]
+[[+Gospel_of_luke]]
+[[+Gospel_of_John]]

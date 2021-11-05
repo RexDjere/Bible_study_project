@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-01T02:44:55-04:00
+
+====== Jew ======
+Created Wednesday 01 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Jews|[ref 1]]]	https://en.wikipedia.org/wiki/Jews
+
+
+What is the origin of the word Jew?
+Jews or Jewish people are members of an ethnoreligious group and a nation originating from the Israelites and Hebrews of historical Israel and Judah.

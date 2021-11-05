@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-20T16:38:32-04:00
+
+====== Lot ======
+Created Monday 20 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Lot_(biblical_person)|[ref 1]]]	https://en.wikipedia.org/wiki/Lot_(biblical_person)
+
+Who was Lot?
+Lot was a man in the biblical Book of [[Home:01 Old Testament:01 Genesis|Genesis]], chapters 11-14 and 19.
+
+What are the relationships with Lot?
+[[+Haran]] - father of Lot
+[[+Terah]] - grandfather of Lot
+[[Home:01 Old Testament:01 Genesis:Moab|Moab]] - son of Lot
+[[Home:01 Old Testament:01 Genesis:Ammon|Ben-Ammi]] - Soon of Lot

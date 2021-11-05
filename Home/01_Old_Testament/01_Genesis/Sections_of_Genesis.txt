@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-25T12:05:12-04:00
+
+====== Sections of Genesis ======
+Created Wednesday 25 August 2021
+
+[[+00001_Creation_of_Heaven_and_Earth]]

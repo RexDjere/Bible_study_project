@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-10-21T13:58:38-04:00
+
+====== 11 Dinah ======
+Created Thursday 21 October 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Dinah|[ref 1]]]	https://en.wikipedia.org/wiki/Dinah
+
+Who was Dinah?
+In the Book of Genesis, Dinah was the daughter of Jacob, one of the patriarchs of the Israelites, and Leah, his first wife.	[[https://en.wikipedia.org/wiki/Dinah|[ref 1]]]

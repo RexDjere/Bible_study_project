@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-10-22T10:28:33-04:00
+
+====== Tribe of Benjamin ======
+Created Friday 22 October 2021
+
+References:
+[[https://www.youtube.com/watch?v=KP-EXMy4Xas|[ref 1]]]	https://www.youtube.com/watch?v=KP-EXMy4Xas

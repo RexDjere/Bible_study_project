@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-01T02:33:16-04:00
+
+====== II Kings ======
+Created Wednesday 01 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Books_of_Kings|[ref 1]]]	https://en.wikipedia.org/wiki/Books_of_Kings
+
+What is the Book of Kings?
+The Book of Kings is a book of the [[Home:01 Old Testament:01 Genesis:Jacob:04 Judah:Israelite Tribe of Judah:Hebrew Bible|Hebrew Bible]]  and two books [[+1_Kings]] and [[+2_Kings]] in the Christian Old Testament .
+It concludes the Deuteronomistic history , a history of Israel also including the books of [[+Joshua]] and [[+Judges]] and the Books of [[+Samuel]] . 

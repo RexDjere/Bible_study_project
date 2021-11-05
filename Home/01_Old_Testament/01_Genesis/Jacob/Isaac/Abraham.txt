@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-10-01T05:26:20-04:00
+
+====== Abraham ======
+Created Friday 01 October 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Abraham|[ref 1]]]	https://en.wikipedia.org/wiki/Abraham
+
+Who was Abraham?
+Abraham (originally Abram) is the common patriarch of the [[+Abrahamic_religions]] , including [[+Judaism]] , [[+Christianity]] , and [[+Islam]] .	[[https://en.wikipedia.org/wiki/Abraham|[ref 1]]]
+
+Who is Abraham in Judaism?
+In Judaism, he was the founding father of the [[+covenant_of_the_pieces]] , the special relationship between the [[+Hebrews]] and [[+God]] .
+
+Who is Abraham in Christianity?
+In Christianity, he was the spiritual progenitor of all believers, Jewish or [[+Gentile]] (non-Jewish).
+
+Who is Abraham in Islam?
+In Islam, he is seen as a link in the [[+chain_of_prophets]] that begins with [[+Adam]] and culminates in [[+Muhammad]] .
+
+
+

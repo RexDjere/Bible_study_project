@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-01T14:21:08-04:00
+
+====== Gospel of John ======
+Created Wednesday 01 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Gospel_of_John|[ref 1]]]	https://en.wikipedia.org/wiki/Gospel_of_John
+
+What are the 4 parts of the Gospel of John?
+[[+prologue]]
+[[+Book_of_Signs]]
+[[+Book_of_Glory]]
+[[+conclusion]]
+
+What is the gospel number of the Book of John?
+John is the 4th boook of the canonical gospels.
+
+When did the Book of John reach its final form?
+John reached its final form around AD 90-110.
+
+Discuss anonymity?
+The gopel of John, like all of the gospels, is anonymous.
+
+Chapters:
+[[+Chapter_01]]
+[[+Chapter_02]]
+[[+Chapter_03]]
+

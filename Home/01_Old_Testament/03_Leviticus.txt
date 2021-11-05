@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-02T14:23:39-04:00
+
+====== 03 Leviticus ======
+Created Thursday 02 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Book_of_Leviticus|[ref 1]]]	https://en.wikipedia.org/wiki/Book_of_Leviticus
+
+What is the Book of Leviticus?
+The Book of Leviticus is the third book of the Torah and of the Old Testament;
+scholars generally agree that it developed oveer a long period of time,
+reaching its present form during the [[+Persian_Period|Persian Period]] between 538-332 BC.

@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-29T12:32:28-04:00
+
+====== Israelite Tribe of Levi ======
+Created Wednesday 29 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Tribe_of_Levi|[ref 1]]]	https://en.wikipedia.org/wiki/Tribe_of_Levi
+
+What is the Tribe of Levi?
+According to the Bible, the Tribe of [[Home:01 Old Testament:01 Genesis:Jacob:03 Levi|Levi]] is one of the tribes of Israel, traditionally descended from Levi, son of [[Home:01 Old Testament:01 Genesis:Jacob|Jacob]].	[[https://en.wikipedia.org/wiki/Tribe_of_Levi|[ref 1]]]
+
+What were the duties of the Tribe of Levi?
+The Tribe of Levi served particular religious duties for the Israelites, and had political respnsibilities as well.	[[https://en.wikipedia.org/wiki/Tribe_of_Levi|[ref 1]]]
+
+Who were notable descendants of the Levite lineage according to the Bible?	[[https://en.wikipedia.org/wiki/Tribe_of_Levi|[ref 1]]]
+[[+Moses]]
+[[+Aaron]]
+[[+Miriam]]
+[[+Samuel]]
+[[+Ezekiel]]
+[[+Ezra]]
+[[+Malachi]]
+
+Who were the three sons of Levi, according to Genesis 46:11?
+[[+Gershon]]
+[[+Kohath]]
+[[+Merari]]

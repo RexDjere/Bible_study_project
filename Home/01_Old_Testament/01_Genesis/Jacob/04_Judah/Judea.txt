@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-01T02:46:57-04:00
+
+====== Judea ======
+Created Wednesday 01 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Judea|[ref 1]]]	https://en.wikipedia.org/wiki/Judea
+
+What is Judea?
+Judea is the ancient, historic, Biblical Hebrew, contemporaneous Latin, and the modern-day name of the moutainous southern part of the region of Israel and part of the West Bank.

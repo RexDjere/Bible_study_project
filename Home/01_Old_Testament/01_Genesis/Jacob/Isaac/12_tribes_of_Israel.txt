@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-23T11:08:25-04:00
+
+====== 12 tribes of Israel ======
+Created Thursday 23 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Twelve_Tribes_of_Israel|[ref 1]]]	https://en.wikipedia.org/wiki/Twelve_Tribes_of_Israel
+[[https://www.youtube.com/watch?v=KP-EXMy4Xas|[ref 2]]]	https://www.youtube.com/watch?v=KP-EXMy4Xas
+
+The 12 Tribes of Israel:
+* [[+Israelite Tribe of Reuben|The Tribe of Reuben]]
+* [[+Israelite Tribe of Simeon|The Tribe of Simeon]]
+* [[+Israelite Tribe of Levi|The Tribe of Levi]]
+* [[+Israelite Tribe of Simeon:Tribe of Judah|The Tribe of Judah]]
+* [[+Israelite Tribe of Dan|The Tribe of Dan]]
+* [[+Israelite Tribe of Naphtali|The Tribe of Naphtali]]
+* [[+Israelite_Tribe_of_Gad|The Tribe of Gad]]
+* [[+Israelite Tribe of Asher|The Tribe of Asher]]
+* [[+Israelite Tribe of Issachar|The Tribe of Issachar]]
+* [[Home:01 Old Testament:01 Genesis:Jacob:13 Benjamin:Tribe of Benjamin|The Tribe of Benjamin]]
+
+Who were the 12 patriarchs?
+Israel [[Home:01 Old Testament:01 Genesis:Jacob|(Jacob]]) had 12 sons by 4 mothers:	[[https://www.youtube.com/watch?v=KP-EXMy4Xas|[ref 2]]]
+* 6 sons by [[Home:01 Old Testament:01 Genesis:Jacob:Leah|Leah]]:
+	* [[Home:01 Old Testament:01 Genesis:Jacob:01 Reuben|Reuben]]
+	* [[Home:01 Old Testament:01 Genesis:Jacob:02 Simeon|Simeon]]
+	* [[Home:01 Old Testament:01 Genesis:Jacob:03 Levi|Levi]]
+	* [[Home:01 Old Testament:01 Genesis:Jacob:04 Judah|Judah]]
+	* [[Home:01 Old Testament:01 Genesis:Jacob:09 Issachar|Issachar]]
+	* [[Home:01 Old Testament:01 Genesis:Jacob:10 Zebulun|Zebulun]]
+* 2 sons by [[Home:01 Old Testament:01 Genesis:Jacob:Bilhah|Bilhah]]:
+	* [[Home:01 Old Testament:01 Genesis:Jacob:05 Dan|Dan]]
+	* [[Home:01 Old Testament:01 Genesis:Jacob:06 Naphtali|Naphtali]]
+* 2 sons by [[Home:01 Old Testament:01 Genesis:Jacob:Zilpah|Zilpah]]:
+	* [[Home:01 Old Testament:01 Genesis:Jacob:07 Gad|Gad]]
+	* [[Home:01 Old Testament:01 Genesis:Jacob:08 Asher|Asher]]
+* 2 sons by [[Home:01 Old Testament:01 Genesis:Jacob:Rachel|Rachel]]:
+	* [[Home:01 Old Testament:01 Genesis:Jacob:12 Joseph|Joseph]]:
+		* Manasseh
+		* Ephraim
+	* [[Home:01 Old Testament:01 Genesis:Jacob:13 Benjamin|Benjamin]]
+
+
+

@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-22T01:07:06-04:00
+
+====== Muslims ======
+Created Wednesday 22 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Muslims|[ref 1]]]	https://en.wikipedia.org/wiki/Muslims
+
+Describe the term Muslims.
+Muslims are people who follow or practice Islam, an Abrahamic monothestic religion.

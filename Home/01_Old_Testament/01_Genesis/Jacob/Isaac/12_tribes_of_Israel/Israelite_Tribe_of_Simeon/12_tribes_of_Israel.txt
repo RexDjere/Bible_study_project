@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-26T22:30:38-04:00
+
+====== 12 tribes of Israel ======
+Created Thursday 26 August 2021
+
+References;
+[[https://en.wikipedia.org/wiki/Twelve_Tribes_of_Israel|[ref 1]]] 	https://en.wikipedia.org/wiki/Twelve_Tribes_of_Israel
+[[https://www.almanac.com/fact/whatever-happened-to-the-12-tribes-of#:~:text=Answer%3A%20The%20tribes%20were%20named,of%20Judah%20and%20Benjamin%20survived|[ref 2]]]	https://www.almanac.com/fact/whatever-happened-to-the-12-tribes-of#:~:text=Answer%3A%20The%20tribes%20were%20named,of%20Judah%20and%20Benjamin%20survived
+
+The Twelve Tribes of Israel are, according the Judeo-Christian texts, the descendants of the Biblical patriarch Jacob, also known as Israel, through his twelve sons by various woen, who collective form the [[+Israelite_nation|Israelite nation]].
+
+Who were the 12 Tribes of Israel? [[https://en.wikipedia.org/wiki/Twelve_Tribes_of_Israel|[ref 1]]] and  [[https://www.almanac.com/fact/whatever-happened-to-the-12-tribes-of#:~:text=Answer%3A%20The%20tribes%20were%20named,of%20Judah%20and%20Benjamin%20survived|[ref 2]]]
+1. [[Home:01 Old Testament:01 Genesis:Jacob:01 Reuben|Reuben]]
+2. [[Home:01 Old Testament:01 Genesis:Jacob:02 Simeon|Simeon]]
+3. [[Home:01 Old Testament:01 Genesis:Jacob:03 Levi|Levi]]
+4. [[+Judah]]
+5. [[Home:01 Old Testament:01 Genesis:Jacob:09 Issachar|Issachar]]
+6. [[Home:01 Old Testament:01 Genesis:Jacob:10 Zebulun|Zebulun]]
+7. [[Home:01 Old Testament:01 Genesis:Jacob:05 Dan|Dan]]
+8. [[Home:01 Old Testament:01 Genesis:Jacob:06 Naphtali|Naphtali]]
+9. [[Home:01 Old Testament:01 Genesis:Jacob:07 Gad|Gad]]
+10. [[Home:01 Old Testament:01 Genesis:Jacob:08 Asher|Asher]]
+11. [[Jacob:13 Benjamin|Benjamin]]
+12. [[12 Joseph|Joseph]]
+13. [[+Ephraim]]
+14. [[+Ephraim+Manasseh|+Manasseh]]
+

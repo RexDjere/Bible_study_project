@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-25T12:01:31-04:00
+
+====== 01 Old Testament ======
+Created Wednesday 25 August 2021
+
+39 Books:
+
+Books 1-5 form the [[+Torah]]
+[[+01_Genesis]]
+[[+02_Exodus]]
+[[+03_Leviticus]]
+[[+04_Numbers]]
+[[+05_Deuteronomy]]
+
+
+What are the first 5 books of the Old Testament called?
+The [[+Torah]] (Hebrew) or the [[+Pentateuch]] (Greek)
+

@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-25T20:08:51-04:00
+
+====== Rachel ======
+Created Wednesday 25 August 2021
+
+Source documents:
+https://en.wikipedia.org/wiki/Rachel
+
+Who was Rachel?
+* a Biblical figure
+* the favorite of of [[+Jacobs_2_wives]]
+* the mother of [[12 Joseph]] and [[13 Benjamin]]
+
+Who was Rachel's father?
+[[+Laban]]
+
+Who was Rachel's older sister?
+[[Leah]]
+
+Who was Rachel's mother?
+[[+Adinah]]
+
+Who was Rachel's aunt?
+[[+Rebecca]]
+

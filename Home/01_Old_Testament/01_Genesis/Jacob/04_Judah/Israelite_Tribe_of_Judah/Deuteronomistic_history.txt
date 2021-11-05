@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-01T02:16:51-04:00
+
+====== Deuteronomistic history ======
+Created Wednesday 01 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Deuteronomist|[ref 1]]]	https://en.wikipedia.org/wiki/Deuteronomist
+
+What is the Deuteronomist?
+The Deuteronomist refers to the source document underlying the core chapters (12-26) of the [[+Book_of_Deuteronomy]] .

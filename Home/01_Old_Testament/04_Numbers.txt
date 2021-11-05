@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-02T14:36:22-04:00
+
+====== 04 Numbers ======
+Created Thursday 02 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Book_of_Numbers|[ref 1]]]	https://en.wikipedia.org/wiki/Book_of_Numbers
+
+What is the Book of Numbers?
+The Book of Numbers is the fourth book of the Hebrew Bible, and the fourth of five books of the Jewish Torah. [[https://en.wikipedia.org/wiki/Book_of_Numbers|[ref 1]]]
+

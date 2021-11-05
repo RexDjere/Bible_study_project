@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-01T02:37:28-04:00
+
+====== Josiah ======
+Created Wednesday 01 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Josiah|[ref 1]]]	https://en.wikipedia.org/wiki/Josiah	
+
+Who was Josiah?
+Josiah was the sixteeth king of Judah (c. 640 - 609 BCE) who, according the the Hebrew Bible , instituted major religious reforms.

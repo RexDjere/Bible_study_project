@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-02T14:30:36-04:00
+
+====== Persepolis ======
+Created Thursday 02 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Persepolis|[ref 1]]]	https://en.wikipedia.org/wiki/Persepolis
+
+What was Persepolis?
+Persepolis was the ceremonial capital of the [[+Achemenid_Empire]] (c. 550-330 BC).
+It is situated in the plains of [[+Marvdasht]] , encircled by southern [[+Zagros_mountains_of_Iran]] .
+Modern day [[+Shiraz]] is situated 60 kilometres (37 mi) southwest of the ruins of Persepolis.
+The earliest remains of Presepolis date back to 525 BC.
+It exemplifies the Achaemenid style of architecture.
+[[+UNESCO]] declared the ruins of Persepolis a [[+World_Heritage_Site]] in 1979.
+

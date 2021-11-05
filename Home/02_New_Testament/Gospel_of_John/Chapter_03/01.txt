@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-03T01:29:35-04:00
+
+====== 01 ======
+Created Friday 03 September 2021
+
+Refefences:
+[[https://en.wikipedia.org/wiki/Pharisees|[ref 1]]]	https://en.wikipedia.org/wiki/Pharisees
+[[https://en.wikipedia.org/wiki/Nicodemus|[ref 2]]]	https://en.wikipedia.org/wiki/Nicodemus
+
+
+1 There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:
+
+What are the Pharisees?
+The Pharisees were a social movement and a school of thought in the [[+Levant]] during the time of [[+Second_Temple_Judiasm]] .	[[https://en.wikipedia.org/wiki/Pharisees|[ref 1]]]
+
+Who was Nicodemus?
+Nicodemus was a [[+Pharisee]] and a member of the [[+Sanhedrin]] mentioned in three places in the Gospel of John:
+* He first visits Jesus one night to discuss Jesus' teachings (John 3:1–21).
+* The second time Nicodemus is mentioned, he reminds his colleagues in the Sanhedrin that the law requires that a person be heard before being judged (John 7:50–51).
+* Finally, Nicodemus appears after the Crucifixion of Jesus to provide the customary embalming spices, and assists [[+Joseph_of_Arimathea|Joseph of Arimathea]] in preparing the body of Jesus for burial (John 19:39–42).
+
+

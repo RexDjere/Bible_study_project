@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-23T11:01:47-04:00
+
+====== Isaac ======
+Created Thursday 23 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Esau|[ref 1]]]	https://en.wikipedia.org/wiki/Esau
+[[https://en.wikipedia.org/wiki/Isaac|[ref 2]]]	https://en.wikipedia.org/wiki/Isaac
+
+Who were Isaac's parents?
+[[+Sarah]] and [[+Abraham]]
+
+Who was Isaac?	[[https://en.wikipedia.org/wiki/Isaac|[ref 2]]]
+* one of the three patriarchs of the Israelites
+* an important figure in the Abrahamic religions, including [[+Judaism]] , [[+Christianity]] , and [[+Islam]]
+* the son of [[Home:01 Old Testament:01 Genesis:Jacob:Esau:Abraham|Abraham]] and [[Home:01 Old Testament:01 Genesis:Jacob:Esau:Sarah|Sarah]]
+* the grandfather of the [[+12_tribes_of_Israel|twelve tribes of Israel]]

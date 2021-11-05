@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-01T02:30:59-04:00
+
+====== Hebrew Bible ======
+Created Wednesday 01 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Hebrew_Bible|[ref 1]]]	https://en.wikipedia.org/wiki/Hebrew_Bible
+
+What is the Hebrew Bible?
+The Hebrew Biblr or Tanakh is the [[+canonical_collection]] of [[+Hebrew]] scriptures, including the [[Home:01 Old Testament:Torah|Torah]] .

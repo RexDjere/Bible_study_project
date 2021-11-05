@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-03T23:30:17-04:00
+
+====== Levant ======
+Created Friday 03 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Levant|[ref 1]]]	https://en.wikipedia.org/wiki/Levant
+
+What is the Levant?
+The Levant is an approximate historical geographical term referring to a large area in the Eastern Mediterranean region of Western Asia.
+
+What is the Levant equivalent to in its narrowest sense?
+In its narrowest sense, it is equivalent to the historical region of Syriam which included present day Syria, Lebanon, Jordan, Israel, Palestine, and most of TUrkey south-east of the middle Euphrates.

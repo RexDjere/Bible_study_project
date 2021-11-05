@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-25T12:18:32-04:00
+
+====== Moses ======
+Created Wednesday 25 August 2021
+
+Source doucments:
+https://en.wikipedia.org/wiki/Moses
+
+Moses is considered to be the most important prophet in Judaism, and a very important prophet in Christianity, Islam, and other religions.
+In Hebrew, Moses is known as Moshe Rabbenu which translates to "Moshe our Teacher".
+Rabbinical Judaism has calculated Moses' lifespan to be from 1391 to 1271 BCE.

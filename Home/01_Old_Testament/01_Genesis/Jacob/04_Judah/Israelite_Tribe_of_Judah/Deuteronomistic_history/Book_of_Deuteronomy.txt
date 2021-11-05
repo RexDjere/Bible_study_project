@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-01T02:19:19-04:00
+
+====== Book of Deuteronomy ======
+Created Wednesday 01 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Book_of_Deuteronomy|[ref 1]]]	https://en.wikipedia.org/wiki/Book_of_Deuteronomy
+
+What is the Book of Deuteronomy?
+The Book of Deuteronomy is the fifth book of the [[+Torah]] , and the fifth book of the [[+Christian_Old_Testament]] , where it is also called the [[+Fifth_Book_of_Moses]] .	[[https://en.wikipedia.org/wiki/Book_of_Deuteronomy|[ref 1]]]
+
+What does Deuteronomy mean?
+"second law" from Greek deuteros + nomos.	[[https://en.wikipedia.org/wiki/Book_of_Deuteronomy|[ref 1]]]

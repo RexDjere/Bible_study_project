@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-01T02:40:40-04:00
+
+====== Twelve Tribes of Israel ======
+Created Wednesday 01 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Twelve_Tribes_of_Israel|[ref 1]]]	https://en.wikipedia.org/wiki/Twelve_Tribes_of_Israel
+
+Where are the 12 tribes of Israel listed?
+In Deuteronomy 27:12-13
+
+List the 12 tribes of Israel.
+1. Reuben
+2. Simeon
+3. Levi
+4. Judah
+5. Issachar
+6. Zebulun
+7. Dan
+8. Naphtali
+9. Gad
+10. Asher
+11. Benjamin
+12. Joseph
+
+Which tribe later split into 2 half-tribes?
+Joseph split into Ephraim and Manasseh.

@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-11-03T05:59:27-04:00
+
+====== E ======
+Created Wednesday 03 November 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Elohist|[ref 1]]]	https://en.wikipedia.org/wiki/Elohist
+
+What is the Elohist?
+
+According to the documentary hypothesis, the 
+(1.) Elohist (or simply E) is one of the four source documents underlying the [[Home:01 Old Testament:Torah|Torah]],
+together with the 
+(2.) [[Home:Bible writing:J|Jahwist]] (or Yahwist), the 
+(3.) [[Home:Bible writing:D|Deuteronomist]] and 
+(4.) [[Home:Bible writing:P|Priestly]] source.
+
+The Elohist is so named because of its pervasive use of the word Elohim to refer to the Israelist God .	[[https://en.wikipedia.org/wiki/Elohist|[ref 1]]]
+
+test

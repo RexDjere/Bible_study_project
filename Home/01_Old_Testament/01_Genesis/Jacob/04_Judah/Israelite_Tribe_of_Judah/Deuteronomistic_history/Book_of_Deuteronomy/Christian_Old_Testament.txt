@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-01T02:24:15-04:00
+
+====== Christian Old Testament ======
+Created Wednesday 01 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Old_Testament|[ref 1]]]	https://en.wikipedia.org/wiki/Old_Testament
+
+What is the Old Testament?
+The Old Testament is the first division of the [[+Christian_biblical_canon]] , which is based primarily upon the 24 books of the [[+Hebrew_Bible]] or Tanakh, a collection of ancient religious Hebrew writings by the [[+Israelites]] .

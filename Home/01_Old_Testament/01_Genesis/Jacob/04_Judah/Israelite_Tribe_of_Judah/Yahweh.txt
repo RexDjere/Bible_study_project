@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-01T02:43:55-04:00
+
+====== Yahweh ======
+Created Wednesday 01 September 2021
+
+Rerefences:
+[ref 1]	https://en.wikipedia.org/wiki/Yahweh
+
+Whos is Yahweh?
+Yahweh is the national God of Ancient Israel.

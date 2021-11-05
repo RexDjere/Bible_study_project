@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-10-07T10:34:46-04:00
+
+====== Ten Lost Tribes of Israel ======
+Created Thursday 07 October 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Ten_Lost_Tribes|[ref 1]]]	https://en.wikipedia.org/wiki/Ten_Lost_Tribes
+
+What are the 10 lost tribes of Israel?
+The ten lost tribes were the ten of the Twelve Tribes of Israel that were said to have been exiled from the Kingdom of Israel
+after its conquest by the [[+Neo_Assyrian_Empire]] circa 722 BCE.	[[https://en.wikipedia.org/wiki/Ten_Lost_Tribes|[ref 1]]]
+
+Name the 10 lost tribes of Israel.	[[https://en.wikipedia.org/wiki/Ten_Lost_Tribes|[ref 1]]]
+[[Home:01 Old Testament:01 Genesis:Jacob:01 Reuben|Reuben]]
+[[Home:01 Old Testament:01 Genesis:Jacob:02 Simeon|Simeon]]
+[[Home:01 Old Testament:01 Genesis:Jacob:05 Dan|Dan]]
+[[Home:01 Old Testament:01 Genesis:Jacob:06 Naphtali|Naphtali]]
+[[Home:01 Old Testament:01 Genesis:Jacob:07 Gad|Gad]]
+[[Home:01 Old Testament:01 Genesis:Jacob:08 Asher|Asher]]
+[[Home:01 Old Testament:01 Genesis:Jacob:09 Issachar|Issachar]]
+[[Home:01 Old Testament:01 Genesis:Jacob:10 Zebulun|Zebulun]]
+Manasseh
+Ephraim
+
+
+Which tribes of Israel were not lost?
+[[Home:01 Old Testament:01 Genesis:Jacob:04 Judah|Judah]]
+[[Home:01 Old Testament:01 Genesis:Jacob:13 Benjamin|Benjamin]]

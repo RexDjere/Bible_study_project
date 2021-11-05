@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-09T19:23:30-04:00
+
+====== 01 Creation of Heaven and Earth ======
+Created Thursday 09 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Genesis_creation_narrative#Pre-creation:_Genesis_1:1%E2%80%932|[ref 1]]]	https://en.wikipedia.org/wiki/Genesis_creation_narrative#Pre-creation:_Genesis_1:1%E2%80%932
+
+Genesis 1:1-2
+1 In the beginning God created the heaven and the earth.
+2 And the earth was without form, and void; and darkness was upon the face of the deep. And the [[+Spirit_of_God|Spirit of God]] moved upon the face of the waters.

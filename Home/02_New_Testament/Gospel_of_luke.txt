@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-02T14:09:30-04:00
+
+====== Gospel of luke ======
+Created Thursday 02 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Gospel_of_Luke|[ref 1]]]	https://en.wikipedia.org/wiki/Gospel_of_Luke
+
+What is the Gospel according to Luke?
+The Gospel according to Luke, also called the Gospel of Luke, or simply Luke, tells of the origins, birth, ministry, death, resurrection, and ascension of [[+Jesus_Christ]] .	[[https://en.wikipedia.org/wiki/Gospel_of_Luke|[ref 1]]]
+
+How does Luke related to the [[+Acts_of_the_Apostles]] ?
+Together with the Acts of the Apostles, it makes up a two-volume work which scholars call [[+Luke_Acts]] ; together they account for 27.5% of the New Testament.	[[https://en.wikipedia.org/wiki/Gospel_of_Luke|[ref 1]]]
+
+What is the most probable date for the composition of Luke?
+The most probable date for its composition is around AD 80-110.
+
+What were the main sources used for Luke?
+1. the Gospel of Mark
+2. a hypothetical sayings collection called the Q source
+3. material found in no other gospels, often referred to as the L (for Luke) source.
+
+Who was the author of Luke?
+THe author is anonymous.

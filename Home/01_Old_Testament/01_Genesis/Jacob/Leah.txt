@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-26T15:19:47-04:00
+
+====== Leah ======
+Created Thursday 26 August 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Leah|[ref 1]]]	 https://en.wikipedia.org/wiki/Leah
+
+
+
+Who was Leah in the Bible?
+Leah is an important figure in the [[+Judeo_Christian_tradition]] , the unloved wife of the Biblical patriarch [[Home:01 Old Testament:01 Genesis:Jacob|Jacob]].
+
+Where does Leah first appear in the Bible?
+Leah first appears in the Bible in the [[Home:01 Old Testament:01 Genesis|Book of Genesis]], Chapter 29.
+
+Name some of Leah's close relatives.
+Leah is:
+* the daughter of [[+Laban]]
+* the older sister of [[Home:01 Old Testament:01 Genesis:Jacob:Rachel|Rachel]]
+* the niece of [[+Rebecca]]
+* the grandaughter of [[+Bethuel]]
